@@ -1,4 +1,7 @@
-streamlit==1.18.1
-pandas==1.5.3
-seaborn==0.12.2
-st-gsheets-connection==0.1.0
+pandas
+streamlit>=1.28.0
+seaborn
+numpy
+scikit-learn
+matplotlib
+st-gsheets-connection

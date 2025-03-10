@@ -1,12 +1,10 @@
 import streamlit as st
-import random
+import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-import time
-
 from datetime import datetime
 from streamlit_gsheets import GSheetsConnection
-import random
+
 
 # Set Seaborn theme for better aesthetics
 sns.set_theme(style="whitegrid")
