@@ -4,6 +4,8 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from datetime import datetime
 from streamlit_gsheets import GSheetsConnection
+import random
+import time
 
 
 # Set Seaborn theme for better aesthetics
